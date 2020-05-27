@@ -50,9 +50,14 @@ No, its not but with integration of DevOps it surely is....Thereby forming Ml+De
    <li>To achieve the automation..we use the Jenkins that will run a set of jobs..
       <ul>
         <li><h2>First Job</h2>
-          <h4>This Job simply just copies all files in GitHub repo to the local machine...
-            
-        </li>
+          <h4>  This Job simply just copies all files in GitHub repo to the local machine...</h4>
+          
+   
+   1. ![](Images/J1-1.png)
+   
+   2. ![](Iamges/J1-2.png)
+                       
+   </li>
   </ul>
    
    
