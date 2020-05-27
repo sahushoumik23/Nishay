@@ -138,6 +138,8 @@ No, its not but with integration of DevOps it surely is....Thereby forming Ml+De
    
    ![](Images/J3-2.png)
    
+   sudo docker exec sk bash -c "cd home;cd Python;python3 main1.py"
+   
    </li>
    
    <li><h2>Fifth Job</h2>
